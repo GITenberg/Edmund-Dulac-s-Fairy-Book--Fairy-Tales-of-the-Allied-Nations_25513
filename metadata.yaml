@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7657
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25513#Edmund-Dulac-s-Fairy-Book--Fairy-Tales-of-the-Allied-Nations
 gutenberg_issued: '2008-05-18'
 gutenberg_type: Text
 identifiers:
