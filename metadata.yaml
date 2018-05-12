@@ -1,0 +1,38 @@
+_repo: Edmund-Dulac-s-Fairy-Book--Fairy-Tales-of-the-Allied-Nations_25513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+description: ''
+gutenberg_issued: '2008-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Snegorotchka, a Russian fairy tale -- The buried moon, an English
+  fairy tale -- White Caroline and Black Caroline, a Flemish fairy tale -- The seven
+  conquerors of the Queen of the Mississippi, a Belgian fairy tale -- The serpent
+  prince, an Italian fairy tale -- The hind of the wood, a French fairy tale -- Ivan
+  and the chestnut horse, a Russian fairy tale -- The queen of the many-colored bedchamber,
+  an Irish fairy tale -- The blue bird, a French fairy tale -- Bashtchelik (or, Real
+  steel), a Serbian fairy tale -- The friar and the boy, an English fairy tale --
+  The green serpent, A French fairy tale -- Urashima Taro, a Japanese fairy tale --
+  The fire bird, a Russian fairy tale -- The story of the bird Feng, a Chinese fairy
+  tale.
+title: 'Edmund Dulac''s Fairy-Book: Fairy Tales of the Allied Nations'
+url: http://www.gutenberg.org/ebooks/25513
